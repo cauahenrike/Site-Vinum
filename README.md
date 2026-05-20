@@ -1,5 +1,5 @@
 
- 🍷 Vinum — Inteligência que Flui (https://cauahenrike.github.io/Site-Vinum/)
+ 🍷 Vinum — Inteligência que Flui acesse o site https://cauahenrike.github.io/Site-Vinum/
 
 Vinum é um projeto fictício de landing page premium criado com HTML, CSS e JavaScript puro, desenvolvido com foco em design moderno, animações suaves e experiência visual elegante.
 
